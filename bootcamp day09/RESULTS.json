@@ -1,0 +1,13 @@
+{
+    "task04": {
+        "tp": 48,
+        "tn": 98,
+        "fp": 2,
+        "fn": 2
+    },
+    "task06": {
+        "n_thresholds": 150,
+        "precision_max": 1.0,
+        "recall_max": 1.0
+    }
+}
