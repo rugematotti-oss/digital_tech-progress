@@ -1,0 +1,46 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+.venv/
+env/
+ENV/
+
+# Distribution 
+build/
+dist/
+*.egg-info/
+
+# OS 
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Logs
+*.log
+
+# Environment variables
+.env
+
+# Project data
+data/books/
+data/cache/
+
+# Optional local datasets
+*.csv
+data/catalog/ 
+
+# Test 
+.coverage
+htmlcov/
+.pytest_cache/
+
+#bonus
+bonus/wordcloud/output/
